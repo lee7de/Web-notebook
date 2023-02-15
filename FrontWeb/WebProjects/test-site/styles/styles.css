@@ -1,0 +1,28 @@
+/* p {
+    color: rgb(0, 255, 174);
+} */
+
+html {
+    background-color: rgb(235, 200, 201);
+}
+
+/* body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 ;
+    border: 0px solid black;
+} */
+  
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+  
+p, li {
+font-size: 16px;
+/* line-height 后面可以跟不同的参数，如果是数字，就是当前字体大小乘上数字 */
+line-height: 2;
+letter-spacing: 1px;
+}
+  

@@ -22,7 +22,6 @@
 然后跟着[官方](https://docs.djangoproject.com/zh-hans/4.1/intro/tutorial01/)熟悉使用方法，最终部署一个自己的项目来。
 
 # TODO
-
 win-Apache 配置存在问题
 
 
